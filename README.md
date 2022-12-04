@@ -1,7 +1,7 @@
 ##### Hi there 👋
 ### I am Sandesh Bhusal
 
-I am an aspiring systems engineer currently working @[Logpoint](https://logpoint.com). I do Rust in my free time, Go in my prototyping time and Python in my professional time. Here are some pinned projects: 
+I am an aspiring systems engineer currently working @[NXLog](https://nxlog.org). I do Rust professionally and Go and Python on my side prototypes and. Here are some pinned projects: 
 
 1. [Competitive Programming workshop](https://github.com/sandeshbhusal/CPWorkshop)
 This repo contains the code samples for if you attended the Competitive programming workshop I was a speaker of 
