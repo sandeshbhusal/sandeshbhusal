@@ -8,3 +8,6 @@ My previous experiences include:
 - Presales Engineer (Logpoint)
 
 I love contributing to projects I use personally, and I am an avid Rustacean.
+
+[Read my blog](https://sandeshbhusal.github.io)
+[Text me on LinkedIn](https://linkedin.com/in/sandeshbhusal)
